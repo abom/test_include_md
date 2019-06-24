@@ -1,1 +1,1 @@
-![image](test_img.svg?sanitize=true)
+![image](img1.svg?sanitize=true)
